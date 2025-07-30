@@ -5,3 +5,4 @@
 - 2025-07-10: add CI workflow
 - 2025-07-10: fix nonce handling in mint
 - 2025-07-28: add initial project scaffold
+- 2025-07-30: add .env.example
