@@ -7,3 +7,4 @@
 - 2025-07-28: add initial project scaffold
 - 2025-07-30: add .env.example
 - 2025-07-30: style landing page
+- 2025-07-30: add .env.example
