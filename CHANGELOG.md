@@ -10,3 +10,4 @@
 - 2025-07-30: add .env.example
 - 2025-08-02: add whitelist merkle verification
 - 2025-08-03: update contract compiler
+- 2025-08-11: add security notes
